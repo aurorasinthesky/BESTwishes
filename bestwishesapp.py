@@ -1,8 +1,4 @@
-!pip install streamlit
-!pip install transformers
-!pip install pillow
-!pip install fpdf
-!pip install requests
+
 import streamlit as st
 from transformers import pipeline
 from PIL import Image
